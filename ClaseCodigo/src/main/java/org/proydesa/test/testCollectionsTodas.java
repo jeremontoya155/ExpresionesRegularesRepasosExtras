@@ -13,6 +13,7 @@ public class testCollectionsTodas {
         
         List<Integer> numeros=new ArrayList<>();
         
+        System.out.println("Hola");
         
     }
     
